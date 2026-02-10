@@ -58,37 +58,7 @@ Counter-App/
 ├── package.json
 └── vite.config.js
 ```
-
 ---
-
-## 🚀 How to Run Locally
-
-1. Clone the repository
-
-```
-git clone https://github.com/Sakshi-1011/Counter-App.git
-```
-
-2. Navigate to the project folder
-
-```
-cd Counter-App
-```
-
-3. Install dependencies
-
-```
-npm install
-```
-
-4. Run the development server
-
-```
-npm run dev
-```
-
----
-
 ## ✨ Future Improvements
 
 * Add Dark/Light Theme
